@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chatify.gitub.io/precache-manifest.b6edec41043b0823000b54172d5a7b91.js"
+  "/chatify.gitub.io/precache-manifest.eebcb6e36c95ba383688904e3f9f8114.js"
 );
 
 self.addEventListener('message', (event) => {

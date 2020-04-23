@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a2dd13fd4a67f347032586aed42f433",
+    "revision": "1be9d57f891eb295d333bad9d3c1e4d3",
     "url": "/chatify.gitub.io/index.html"
   },
   {
-    "revision": "f25cc98967804f2b32a5",
+    "revision": "8dc81c83d5961ef7b85e",
     "url": "/chatify.gitub.io/static/css/main.a9c30f5c.chunk.css"
   },
   {
-    "revision": "264d5b90983d92656f73",
-    "url": "/chatify.gitub.io/static/js/2.46f6d994.chunk.js"
+    "revision": "45744cbaee0a4146a899",
+    "url": "/chatify.gitub.io/static/js/2.b57d4d7d.chunk.js"
   },
   {
     "revision": "c8bbcf4a821aebd790d5ccd2e7478960",
-    "url": "/chatify.gitub.io/static/js/2.46f6d994.chunk.js.LICENSE.txt"
+    "url": "/chatify.gitub.io/static/js/2.b57d4d7d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f25cc98967804f2b32a5",
-    "url": "/chatify.gitub.io/static/js/main.a4643a8a.chunk.js"
+    "revision": "8dc81c83d5961ef7b85e",
+    "url": "/chatify.gitub.io/static/js/main.a20f03cb.chunk.js"
   },
   {
     "revision": "5b4e15a7c09aae16e39f",

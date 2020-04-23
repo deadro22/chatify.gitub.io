@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/chatify.gitub.io/static/css/main.a9c30f5c.chunk.css",
-    "main.js": "/chatify.gitub.io/static/js/main.a4643a8a.chunk.js",
-    "main.js.map": "/chatify.gitub.io/static/js/main.a4643a8a.chunk.js.map",
+    "main.js": "/chatify.gitub.io/static/js/main.a20f03cb.chunk.js",
+    "main.js.map": "/chatify.gitub.io/static/js/main.a20f03cb.chunk.js.map",
     "runtime-main.js": "/chatify.gitub.io/static/js/runtime-main.ea8cb39d.js",
     "runtime-main.js.map": "/chatify.gitub.io/static/js/runtime-main.ea8cb39d.js.map",
-    "static/js/2.46f6d994.chunk.js": "/chatify.gitub.io/static/js/2.46f6d994.chunk.js",
-    "static/js/2.46f6d994.chunk.js.map": "/chatify.gitub.io/static/js/2.46f6d994.chunk.js.map",
+    "static/js/2.b57d4d7d.chunk.js": "/chatify.gitub.io/static/js/2.b57d4d7d.chunk.js",
+    "static/js/2.b57d4d7d.chunk.js.map": "/chatify.gitub.io/static/js/2.b57d4d7d.chunk.js.map",
     "index.html": "/chatify.gitub.io/index.html",
-    "precache-manifest.b6edec41043b0823000b54172d5a7b91.js": "/chatify.gitub.io/precache-manifest.b6edec41043b0823000b54172d5a7b91.js",
+    "precache-manifest.eebcb6e36c95ba383688904e3f9f8114.js": "/chatify.gitub.io/precache-manifest.eebcb6e36c95ba383688904e3f9f8114.js",
     "service-worker.js": "/chatify.gitub.io/service-worker.js",
     "static/css/main.a9c30f5c.chunk.css.map": "/chatify.gitub.io/static/css/main.a9c30f5c.chunk.css.map",
-    "static/js/2.46f6d994.chunk.js.LICENSE.txt": "/chatify.gitub.io/static/js/2.46f6d994.chunk.js.LICENSE.txt",
+    "static/js/2.b57d4d7d.chunk.js.LICENSE.txt": "/chatify.gitub.io/static/js/2.b57d4d7d.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/chatify.gitub.io/static/media/fa-solid-900.d92b3871.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.ea8cb39d.js",
-    "static/js/2.46f6d994.chunk.js",
+    "static/js/2.b57d4d7d.chunk.js",
     "static/css/main.a9c30f5c.chunk.css",
-    "static/js/main.a4643a8a.chunk.js"
+    "static/js/main.a20f03cb.chunk.js"
   ]
 }
